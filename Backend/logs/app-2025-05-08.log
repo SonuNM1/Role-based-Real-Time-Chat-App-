@@ -1,0 +1,106 @@
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T13:56:41.523Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T13:56:41.545Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T13:57:25.140Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T13:57:25.147Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T14:02:13.248Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T14:02:13.259Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T14:03:12.976Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T14:03:12.984Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T15:41:04.640Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T15:41:04.651Z"}
+{"level":"info","message":"GET /api/docs/user","timestamp":"2025-05-08T15:44:01.737Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui.css","timestamp":"2025-05-08T15:44:01.938Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-bundle.js","timestamp":"2025-05-08T15:44:01.956Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-standalone-preset.js","timestamp":"2025-05-08T15:44:01.963Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-init.js","timestamp":"2025-05-08T15:44:01.976Z"}
+{"level":"info","message":"POST /signup","timestamp":"2025-05-08T15:48:39.067Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T15:55:53.628Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T15:55:53.636Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T15:56:04.446Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T15:56:04.470Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T15:56:29.129Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T15:56:29.149Z"}
+{"level":"info","message":"GET /api/docs/user","timestamp":"2025-05-08T16:26:26.865Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui.css","timestamp":"2025-05-08T16:26:27.007Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-bundle.js","timestamp":"2025-05-08T16:26:27.016Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-standalone-preset.js","timestamp":"2025-05-08T16:26:27.032Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-init.js","timestamp":"2025-05-08T16:26:27.039Z"}
+{"level":"info","message":"GET /api/docs/favicon-32x32.png","timestamp":"2025-05-08T16:26:28.032Z"}
+{"level":"info","message":"POST /api/auth/signup","timestamp":"2025-05-08T16:27:13.056Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T16:48:42.728Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T16:48:42.759Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T16:59:20.530Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T16:59:20.540Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T16:59:46.167Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T16:59:46.180Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:00:23.210Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:00:23.220Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:00:41.236Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:00:41.330Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:00:56.182Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:00:56.191Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:03:06.983Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:03:06.995Z"}
+{"level":"info","message":"GET /api/docs/user","timestamp":"2025-05-08T17:03:13.797Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui.css","timestamp":"2025-05-08T17:03:14.048Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-bundle.js","timestamp":"2025-05-08T17:03:14.079Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-standalone-preset.js","timestamp":"2025-05-08T17:03:14.097Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-init.js","timestamp":"2025-05-08T17:03:14.102Z"}
+{"level":"info","message":"GET /api/docs/favicon-32x32.png","timestamp":"2025-05-08T17:03:15.055Z"}
+{"level":"info","message":"POST /api/auth/signup","timestamp":"2025-05-08T17:03:53.299Z"}
+{"level":"info","message":"GET /api/auth/verify/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdhcmltYUBnbWFpbC5jb20iLCJpYXQiOjE3NDY3MjM4MzMsImV4cCI6MTc0NjcyNzQzM30.QLYpyoLJxDm2zvyyA1wvfx9BpEHBImF5gckJ0nIqeRc","timestamp":"2025-05-08T17:04:36.886Z"}
+{"level":"info","message":"GET /favicon.ico","timestamp":"2025-05-08T17:04:37.510Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:05:49.496Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:05:49.507Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-05-08T17:09:02.338Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:14:09.565Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:14:09.575Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-05-08T17:15:00.641Z"}
+{"level":"info","message":"User logged in: garima@gmail.com","timestamp":"2025-05-08T17:15:00.858Z"}
+{"level":"info","message":"GET /api/auth/verify/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODFjZTNmOTg2ZDEzYTI2ZTFlYmYwZWEiLCJyb2xlIjoidXNlciIsImlhdCI6MTc0NjcyNDUwMCwiZXhwIjoxNzQ2NzI4MTAwfQ.A1YVS6okh4YI8zZL6KjM2Yk4uiGQnSB-0KIFTDDH9mk","timestamp":"2025-05-08T17:24:22.689Z"}
+{"level":"info","message":"POST /create-admin","timestamp":"2025-05-08T17:25:51.967Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:29:26.492Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:29:26.511Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:29:37.976Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:29:37.982Z"}
+{"level":"info","message":"GET /api/docs/user","timestamp":"2025-05-08T17:30:30.400Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui.css","timestamp":"2025-05-08T17:30:30.534Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-bundle.js","timestamp":"2025-05-08T17:30:30.546Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-init.js","timestamp":"2025-05-08T17:30:30.565Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-standalone-preset.js","timestamp":"2025-05-08T17:30:30.580Z"}
+{"level":"info","message":"GET /api/docs/favicon-32x32.png","timestamp":"2025-05-08T17:30:31.420Z"}
+{"level":"info","message":"POST /api/admin/create","timestamp":"2025-05-08T17:31:20.816Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:34:12.668Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:34:12.676Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:36:26.303Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:36:26.312Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:41:34.240Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:41:34.263Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T17:57:09.615Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T17:57:09.633Z"}
+{"level":"info","message":"GET /api/docs/user","timestamp":"2025-05-08T17:57:29.727Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui.css","timestamp":"2025-05-08T17:57:30.012Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-bundle.js","timestamp":"2025-05-08T17:57:30.037Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-standalone-preset.js","timestamp":"2025-05-08T17:57:30.044Z"}
+{"level":"info","message":"GET /api/docs/swagger-ui-init.js","timestamp":"2025-05-08T17:57:30.054Z"}
+{"level":"info","message":"GET /api/docs/favicon-32x32.png","timestamp":"2025-05-08T17:57:31.243Z"}
+{"level":"info","message":"POST /api/admin/login","timestamp":"2025-05-08T17:58:15.133Z"}
+{"level":"info","message":"POST /api/admin/login","timestamp":"2025-05-08T17:58:49.422Z"}
+{"level":"info","message":"Admin logged in: isonumahto362000@gmail.com","timestamp":"2025-05-08T17:58:49.621Z"}
+{"level":"info","message":"POST /api/admin/create","timestamp":"2025-05-08T18:02:28.120Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T18:05:07.788Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T18:05:07.802Z"}
+{"level":"info","message":"POST /api/admin/create","timestamp":"2025-05-08T18:06:13.206Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T18:11:30.752Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T18:11:30.763Z"}
+{"level":"info","message":"POST /api/admin/create","timestamp":"2025-05-08T18:11:52.847Z"}
+{"level":"info","message":"POST /api/admin/create","timestamp":"2025-05-08T18:14:37.631Z"}
+{"level":"info","message":"POST /api/admin/create","timestamp":"2025-05-08T18:16:46.023Z"}
+{"level":"info","message":"POST /api/admin/create","timestamp":"2025-05-08T18:21:50.856Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T18:28:33.733Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T18:28:33.752Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T18:29:37.676Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T18:29:37.683Z"}
+{"level":"info","message":"🚀 Server running on http://localhost:5000","timestamp":"2025-05-08T18:29:44.243Z"}
+{"level":"info","message":"📄 Swagger docs: http://localhost:5000/api/docs/user","timestamp":"2025-05-08T18:29:44.250Z"}
+{"level":"info","message":"POST /api/admin/create","timestamp":"2025-05-08T18:29:52.121Z"}
